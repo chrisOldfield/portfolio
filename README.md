@@ -12,11 +12,11 @@ I am currently expanding my skills in cybersecurity with an emphasis on SOC oper
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [Defender Cloud SIEM Implementation at Repfabric](https://github.com/chrisOldfield)|
-| Network Traffic Monitoring and Attack Detection | [Integration of Datadog RUM & SIEM Products](https://github.com/chrisOldfield)|
+| Network Traffic Monitoring and Attack Detection | [ACHunter Threat Modeling and Vulnerability Analysis](https:www.activecountermeasures.com/ac-hunter)|
 | Security Automation with Shuffle SOAR         | [Integration of Datadog RUM & SIEM Products](https://github.com/chrisOldfield)|
-| Incident Response Planning and Execution      | [Defender Cloud SIEM Implementation at Repfabric](https://github.com/chrisOldfield)|
-| Case Management with TheHive                  | [Integration of Datadog RUM & SIEM Products](https://github.com/chrisOldfield)|
-| Scripting and Automation for Threat Mitigation | [Integration of Datadog RUM & SIEM Products](https://github.com/chrisOldfield)|
+| Incident Response Operatons Manager      | [Zabbix EDR & Datadog AS SEIM at Repfabric](https://github.com/chrisOldfield)|
+| Penetration Testing                  | [System & Asset Mitigation POC's](https://github.com/chrisOldfield)|
+| OSINT & Threat Mitigation | [Created bash and ps scripts for systems, network, and endpoint information gathering & vulnerability submission | validation](https://github.com/chrisOldfield)|
 
 ## Tools
 
