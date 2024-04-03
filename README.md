@@ -1,29 +1,24 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Chris Oldfield
+<a href="https://linkedin.com/in/chrisoldfield54"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+With over seven years of experience in the IT and application support fields, I've developed a deep interest in cybersecurity through my roles at Repfabric and my military service. My goal is to leverage my background in IT, passion for technology, and dedication to solving complex problems to make a meaningful impact in the cybersecurity domain.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am currently expanding my skills in cybersecurity with an emphasis on SOC operations and threat mitigation. My objective is to transition into a role as a Tier 1 Analyst in a Security Operations Center, where I can apply my analytical skills, technical expertise, and passion for protecting against cyber threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | [Defender Cloud SIEM Implementation at Repfabric](https://github.com/chrisOldfield)|
+| Network Traffic Monitoring and Attack Detection | [Integration of Datadog RUM & SIEM Products](https://github.com/chrisOldfield)|
+| Security Automation with Shuffle SOAR         | [Integration of Datadog RUM & SIEM Products](https://github.com/chrisOldfield)|
+| Incident Response Planning and Execution      | [Defender Cloud SIEM Implementation at Repfabric](https://github.com/chrisOldfield)|
+| Case Management with TheHive                  | [Integration of Datadog RUM & SIEM Products](https://github.com/chrisOldfield)|
+| Scripting and Automation for Threat Mitigation | [Integration of Datadog RUM & SIEM Products](https://github.com/chrisOldfield)|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,16 +41,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux_CentOS_7_Files_and_Permissions-0A0A0A?&style=for-the-badge&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-API_Security_Fundamentals-FF4500?&style=for-the-badge&logo=APIsec&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified_API_Security_Analyst_(CASA)-0000FF?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified_Ethical_Hacker_(CEH)-008000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- [Integration of Datadog RUM & SIEM Products](https://github.com/chrisOldfield) - Enhanced application and UI/UX monitoring, reducing critical service incidents and improving network traffic.
+- [Defender Cloud SIEM Implementation at Repfabric](https://github.com/chrisOldfield) - Achieved a significant reduction in phishing incidents and swift resolution of critical CVEs through strategic implementation.
 
