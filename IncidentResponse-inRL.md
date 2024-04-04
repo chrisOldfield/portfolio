@@ -1,3 +1,6 @@
+```
+Code snipits limited in visibilty. Awaiting puplishing approval per nda
+```
 ---
 #Post-Incident Summary
 ---
