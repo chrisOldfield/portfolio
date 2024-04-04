@@ -1,11 +1,11 @@
 # Hello, I'm Chris Oldfield
 <a href="https://linkedin.com/in/chrisoldfield54"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-With over seven years of experience in the IT and application support fields, I've developed a deep interest in cybersecurity through my roles at Repfabric and my military service. My goal is to leverage my background in IT, passion for technology, and dedication to solving complex problems to make a meaningful impact in the cybersecurity domain.
+Hello, I'm Chris Oldfield. Over the past seven years, I've honed my skills in systems administration and application support, with a shift towards web application security, guided by my roles at Repfabric and experience in the military. My objective is to leverage my robust IT background and technical acumen to contribute to advancements in web application security..
 
 ## Objective
 
-I am currently expanding my skills in cybersecurity with an emphasis on SOC operations and threat mitigation. My objective is to transition into a role as a Tier 1 Analyst in a Security Operations Center, where I can apply my analytical skills, technical expertise, and passion for protecting against cyber threats.
+My professional aim is to be exclusively engaged in a role that focuses on cybersecurity analysis, SOC activities, or security operations management, with a particular emphasis on fortifying web applications against potential threats. I aim to transition into a role that utilizes my analytical abilities and technical knowledge in this area. My skills include web application penetration testing, developing security policies, incident response, and vulnerability management, with the goal of enhancing the security of web environments.
 
 ## Skills
 
