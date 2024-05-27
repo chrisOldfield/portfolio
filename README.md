@@ -16,7 +16,7 @@ My professional aim is to be exclusively engaged in a role that focuses on cyber
 | Security Automation with Shuffle SOAR         | [Integration of Datadog RUM & SIEM Products](https://github.com/chrisOldfield)|
 | Incident Response Operatons Manager      | [Zabbix EDR & Datadog AS SEIM at Repfabric](https://github.com/chrisOldfield)|
 | Penetration Testing                  | [System & Asset Mitigation POC's](https://github.com/chrisOldfield)|
-| OSINT & Threat Mitigation | [Created bash and ps scripts for systems, network, and endpoint information gathering & vulnerability submission | validation](https://github.com/chrisOldfield)|
+| OSINT & Threat Mitigation | [Created bash and ps scripts for systems, network, and endpoint information gathering, vulnerability, submission and validation](https://github.com/chrisOldfield)|
 
 ## Projects
 - [Integration of Datadog RUM & SIEM Products](https://github.com/chrisOldfield) - Enhanced application and UI/UX monitoring, reducing critical service incidents and improving network traffic.
